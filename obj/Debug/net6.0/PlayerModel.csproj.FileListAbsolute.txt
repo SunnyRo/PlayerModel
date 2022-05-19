@@ -1,0 +1,15 @@
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\PlayerModel.csproj.AssemblyReference.cache
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\PlayerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\PlayerModel.AssemblyInfoInputs.cache
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\PlayerModel.AssemblyInfo.cs
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\PlayerModel.csproj.CoreCompileInputs.cache
+C:\Users\sun\source\repos\PlayerModel\bin\Debug\net6.0\PlayerModel.exe
+C:\Users\sun\source\repos\PlayerModel\bin\Debug\net6.0\PlayerModel.deps.json
+C:\Users\sun\source\repos\PlayerModel\bin\Debug\net6.0\PlayerModel.runtimeconfig.json
+C:\Users\sun\source\repos\PlayerModel\bin\Debug\net6.0\PlayerModel.dll
+C:\Users\sun\source\repos\PlayerModel\bin\Debug\net6.0\PlayerModel.pdb
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\PlayerModel.dll
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\refint\PlayerModel.dll
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\PlayerModel.pdb
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\PlayerModel.genruntimeconfig.cache
+C:\Users\sun\source\repos\PlayerModel\obj\Debug\net6.0\ref\PlayerModel.dll
