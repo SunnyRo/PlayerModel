@@ -6,7 +6,7 @@
 
 ### it also give user different options to print the data that user've created.
 
-### This calculator have some input validation so please make sure you enter the right input.
+### This app have some input validation so please make sure you enter the right input.
 
 ## _New feature_
 
